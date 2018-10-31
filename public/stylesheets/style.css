@@ -3,15 +3,6 @@ body {
   font: 16px 'Lato', sans-serif;
 }
 
-a {
-  color: #00B7FF;
-}
-
-* {
-  -webkit-border-radius: 0 !important;
-     -moz-border-radius: 0 !important;
-          border-radius: 0 !important;
-}
 
 .dropdown-menu .cart {
   min-width: 250px;
